@@ -1,5 +1,5 @@
 # simple-neural-net
-A simple neural network using tensorflow and without to implement a feedforward neural network in python
+A basic neural network using tensorflow and without to implement a feedforward neural network in python
 Run convolutional.py to run it without tensorflow and simple convulutional net.ipynb to run it with tensorflow.
 
 # Neural Networks
